@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: poppins;
+    src: url(./assets/fonts/poppins/Poppins-Regular.ttf);
+}
+
+*{
+  padding: 0px;
+  margin: 0px;
+  font-family: poppins;
+}
+
+
+button:disabled{
+    background-color: rgb(23 37 84 / 59%);
+}
