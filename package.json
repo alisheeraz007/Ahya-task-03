@@ -1,5 +1,5 @@
 {
-  "name": "ahya-task-2",
+  "name": "ahya-task-3",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,8 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "axios": "^1.15.2",
     "react": "^19.2.5",
     "react-dom": "^19.2.5",
+    "react-paginate": "^8.3.0",
     "react-router-dom": "^7.14.2"
   },
   "devDependencies": {
