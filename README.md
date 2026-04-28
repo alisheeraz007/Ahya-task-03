@@ -9,8 +9,8 @@
 
 # Reasoning
 
-I used tailwind as it is a preload sass css with load before the page render and it too easy for the developer to make a site or software responsive.
+I used tailwind as it is a preload sass css with load before the page render and it too easy for the developer to make a site or software responsive. And added debounce search for good user experience and less api hitting. Added skeleton for loading state. Made custom pagination to show my work
 
 # Rough Time Spend
 
-I spend 3 hour in this dashboard layout as I made it for easy use in future, the main thing for me is the structure, as I made this structure in that way that I can made other pages in just 20 to 25 minutes easily.
+I spend 1 hour in this Product page.
